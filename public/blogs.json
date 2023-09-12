@@ -1,0 +1,52 @@
+[
+    {
+        "id": 12345,
+        "cover": "https://i.ibb.co/xFd7zyg/top-view-workspace-with-laptop-notebook.jpg",
+        "title": "Exploring the Hidden Gems of Underwater Photography",
+        "author": "Jane Smith",
+        "author_img": "https://i.ibb.co/MpSVfX9/boy2.jpg",
+        "posted_date": "September 5, 2023",
+        "reading_time_minutes": 8,
+        "hashtags": ["Photography", "Underwater", "Nature"]
+    },
+    {
+        "id": 56789,
+        "cover": "https://i.ibb.co/xFd7zyg/top-view-workspace-with-laptop-notebook.jpg",
+        "title": "The Art of Baking: Mastering the Perfect Croissant",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co/MpSVfX9/boy2.jpg",
+        "posted_date": "August 20, 2023",
+        "reading_time_minutes": 10,
+        "hashtags": ["Baking", "Cooking", "Foodie"]
+    },
+    {
+        "id": 98765,
+        "cover": "https://i.ibb.co/xFd7zyg/top-view-workspace-with-laptop-notebook.jpg",
+        "title": "Unraveling the Mysteries of Quantum Physics",
+        "author": "Alice Johnson",
+        "author_img": "https://i.ibb.co/PT56J2x/serious-man-thinking.jpg",
+        "posted_date": "July 12, 2023",
+        "reading_time_minutes": 15,
+        "hashtags": ["Physics", "Quantum", "Science"]
+    },
+    {
+        "id": 54321,
+        "cover": "https://i.ibb.co/xFd7zyg/top-view-workspace-with-laptop-notebook.jpg",
+        "title": "Traveling Through Time: A Historical Adventure",
+        "author": "Michael Brown",
+        "author_img": "https://i.ibb.co/PT56J2x/serious-man-thinking.jpg",
+        "posted_date": "June 3, 2023",
+        "reading_time_minutes": 12,
+        "hashtags": ["History", "TimeTravel", "Adventure"]
+    },
+    {
+        "id": 24680,
+        "cover": "https://i.ibb.co/xFd7zyg/top-view-workspace-with-laptop-notebook.jpg",
+        "title": "Mindfulness Meditation: Finding Inner Peace",
+        "author": "Sarah Davis",
+        "author_img": "https://i.ibb.co/PT56J2x/serious-man-thinking.jpg",
+        "posted_date": "May 18, 2023",
+        "reading_time_minutes": 7,
+        "hashtags": ["Meditation", "Mindfulness", "Wellness"]
+    }
+]
