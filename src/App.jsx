@@ -1,6 +1,4 @@
 
-
-
 import { useState } from 'react'
 import './App.css'
 import Blogs from './components/Header/Blogs/Blogs'
